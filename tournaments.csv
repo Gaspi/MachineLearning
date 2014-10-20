@@ -1,0 +1,62 @@
+IDTournament|Tournament|Indoor|TournamentType|Surface|Country|TournamentPrize|Draw|TournamentStart|TournamentEnd|e|y
+0|Brisbane International presented by Suncorp|0|{'y': 2013, 'e': 339}|Hard|Australia|$436630|32|31.12.2012|06.01.2013|339|2013
+1|Aircel Chennai Open|0|{'y': 2013, 'e': 891}|Hard|India|$385150|32|31.12.2012|06.01.2013|891|2013
+2|Qatar ExxonMobil Open|0|{'y': 2013, 'e': 451}|Hard|Qatar|$1054720|32|31.12.2012|06.01.2013|451|2013
+3|Heineken Open|0|{'y': 2013, 'e': 301}|Hard|New Zealand|$433400|32|07.01.2013|13.01.2013|301|2013
+4|Apia International Sydney|0|{'y': 2013, 'e': 338}|Hard|Australia|$436630|32|07.01.2013|13.01.2013|338|2013
+5|Open Sud de France|1|{'y': 2013, 'e': 375}|Hard|France|€410200|32|04.02.2013|10.02.2013|375|2013
+6|Royal Guard Open Chile |0|{'y': 2013, 'e': 505}|Clay|Chile|$410200|32|04.02.2013|10.02.2013|505|2013
+7|PBZ Zagreb Indoors|1|{'y': 2013, 'e': 2276}|Hard|Croatia|€410200|32|04.02.2013|10.02.2013|2276|2013
+8|ABN AMRO World Tennis Tournament|1|{'y': 2013, 'e': 407}|Hard|The Netherlands|€1267875|32|11.02.2013|17.02.2013|407|2013
+9|SAP Open|1|{'y': 2013, 'e': 424}|Hard|CA, U.S.A.|$546930|32|11.02.2013|17.02.2013|424|2013
+10|Brasil Open 2014|1|{'y': 2013, 'e': 533}|Clay|Brazil|$455775|32|11.02.2013|17.02.2013|533|2013
+11|Copa Claro|0|{'y': 2013, 'e': 506}|Clay|Argentina|$493670|32|18.02.2013|24.02.2013|506|2013
+12|Open 13|1|{'y': 2013, 'e': 496}|Hard|France|€528135|32|18.02.2013|24.02.2013|496|2013
+13|U.S. National Indoor Tennis Championships|1|{'y': 2013, 'e': 402}|Hard|TN, U.S.A.|$1212750|32|18.02.2013|24.02.2013|402|2013
+14|Abierto Mexicano Telcel|0|{'y': 2013, 'e': 807}|Clay|Mexico|$1212750|32|25.02.2013|03.03.2013|807|2013
+15|Delray Beach Open by The  Venetian® Las Vegas|0|{'y': 2013, 'e': 499}|Hard|FL, U.S.A.|$455775|32|25.02.2013|03.03.2013|499|2013
+16|Dubai Duty Free Tennis Championships|0|{'y': 2013, 'e': 495}|Hard|U.A.E.|$1785500|32|25.02.2013|03.03.2013|495|2013
+17|BNP Paribas Open|0|{'y': 2013, 'e': 404}|Hard|CA, U.S.A.|$5191943|128|04.03.2013|17.03.2013|404|2013
+18|Miami Open, presented by Itau|0|{'y': 2013, 'e': 403}|Hard|FL, U.S.A.|$4330625|128|18.03.2013|31.03.2013|403|2013
+19|Grand Prix Hassan II|0|{'y': 2013, 'e': 360}|Clay|Morocco|€410200|32|08.04.2013|14.04.2013|360|2013
+20|Fayez Sarofim & Co. U.S. Men's Clay Court Championship|0|{'y': 2013, 'e': 717}|Clay|TX, U.S.A.|$455775|32|08.04.2013|14.04.2013|717|2013
+21|Monte-Carlo Rolex Masters|0|{'y': 2013, 'e': 410}|Clay|Monaco|€2646495|64|15.04.2013|21.04.2013|410|2013
+22|Barcelona Open Banc Sabadell|0|{'y': 2013, 'e': 425}|Clay|Spain|€1708875|64|22.04.2013|28.04.2013|425|2013
+23|BRD Nastase Tiriac Trophy|0|{'y': 2013, 'e': 773}|Clay|Romania|€410200|32|22.04.2013|28.04.2013|773|2013
+24|BMW Open by FWU AG|0|{'y': 2013, 'e': 308}|Clay|Germany|€410200|32|29.04.2013|05.05.2013|308|2013
+25|Portugal Open|0|{'y': 2013, 'e': 468}|Clay|Portugal|€410200|32|29.04.2013|05.05.2013|468|2013
+26|Mutua Madrid Open|0|{'y': 2013, 'e': 1536}|Clay|Spain|€3368265|64|06.05.2013|12.05.2013|1536|2013
+27|Internazionali BNL d'Italia|0|{'y': 2013, 'e': 416}|Clay|Italy|€2646495|64|13.05.2013|19.05.2013|416|2013
+28|Düsseldorf Open|0|{'y': 2013, 'e': 6710}|Clay|Germany|€410200|32|20.05.2013|26.05.2013|6710|2013
+29|Open de Nice Côte d’Azur|0|{'y': 2013, 'e': 6120}|Clay|France|€410200|32|20.05.2013|26.05.2013|6120|2013
+30|Gerry Weber Open |0|{'y': 2013, 'e': 500}|Grass|Germany|€683665|32|10.06.2013|16.06.2013|500|2013
+31|Aegon Championships|0|{'y': 2013, 'e': 311}|Grass|Great Britain|€683665|64|10.06.2013|16.06.2013|311|2013
+32|Topshelf Open|0|{'y': 2013, 'e': 440}|Grass|The Netherlands|€410200|32|17.06.2013|23.06.2013|440|2013
+33|Aegon International|0|{'y': 2013, 'e': 741}|Grass|Great Britain|€468460|32|17.06.2013|23.06.2013|741|2013
+34|SkiStar Swedish Open|0|{'y': 2013, 'e': 316}|Clay|Sweden|€433770|32|08.07.2013|14.07.2013|316|2013
+35|Hall of Fame Tennis Championships|0|{'y': 2013, 'e': 315}|Grass|RI, U.S.A.|$455775|32|08.07.2013|14.07.2013|315|2013
+36|MercedesCup|0|{'y': 2013, 'e': 321}|Clay|Germany|€410200|32|08.07.2013|14.07.2013|321|2013
+37|Claro Open Colombia|0|{'y': 2013, 'e': 6718}|Hard|Colombia|$638085|32|15.07.2013|21.07.2013|6718|2013
+38|bet-at-home Open|0|{'y': 2013, 'e': 414}|Clay|Germany|€1102500|64|15.07.2013|21.07.2013|414|2013
+39|BB&T Atlanta Open|0|{'y': 2013, 'e': 6116}|Hard|GA, USA|$546930|32|22.07.2013|28.07.2013|6116|2013
+40|Crédit Agricole Suisse Open Gstaad|0|{'y': 2013, 'e': 314}|Clay|Switzerland|€410200|32|22.07.2013|28.07.2013|314|2013
+41|Vegeta Croatia Open Umag|0|{'y': 2013, 'e': 439}|Clay|Croatia|€410200|32|22.07.2013|28.07.2013|439|2013
+42|bet-at-home Cup Kitzbühel|0|{'y': 2013, 'e': 319}|Clay|Austria|€410200|32|29.07.2013|04.08.2013|319|2013
+43|Citi Open|0|{'y': 2013, 'e': 418}|Hard|DC, USA|$1295790|64|29.07.2013|04.08.2013|418|2013
+44|Rogers Cup|0|{'y': 2013, 'e': 421}|Hard|Montreal, Canada|$2887085|64|05.08.2013|11.08.2013|421|2013
+45|Western & Southern Open - Cincinnati|0|{'y': 2013, 'e': 422}|Hard|OH, U.S.A.|$3079555|64|12.08.2013|18.08.2013|422|2013
+46|Winston-Salem Open|0|{'y': 2013, 'e': 6242}|Hard|NC, U.S.A.|$575250|64|19.08.2013|25.08.2013|6242|2013
+47|Moselle Open|1|{'y': 2013, 'e': 341}|Hard|France|€410200|32|16.09.2013|22.09.2013|341|2013
+48|Negev Israel Open|1|{'y': 2013, 'e': 568}|Hard|Russia|$455775|32|16.09.2013|22.09.2013|568|2013
+49|Thailand Open|1|{'y': 2013, 'e': 1720}|Hard|Thailand|$567530|32|23.09.2013|29.09.2013|1720|2013
+50|Malaysian Open, Kuala Lumpur|1|{'y': 2013, 'e': 6003}|Hard|Malaysia|$875500|32|23.09.2013|29.09.2013|6003|2013
+51|China Open|0|{'y': 2013, 'e': 747}|Hard|China|$2315250|32|30.09.2013|06.10.2013|747|2013
+52|Rakuten Japan Open Tennis Championships|0|{'y': 2013, 'e': 329}|Hard|Japan|$1297000|32|30.09.2013|06.10.2013|329|2013
+53|Shanghai Rolex Masters|0|{'y': 2013, 'e': 5014}|Hard|Shanghai, China|$3849445|64|07.10.2013|13.10.2013|5014|2013
+54|Kremlin Cup by Bank of Moscow|1|{'y': 2013, 'e': 438}|Hard|Russia|$746750|32|14.10.2013|20.10.2013|438|2013
+55|If Stockholm Open|1|{'y': 2013, 'e': 429}|Hard|Sweden|€530165|32|14.10.2013|20.10.2013|429|2013
+56|Erste Bank Open|1|{'y': 2013, 'e': 337}|Hard|Austria|€501355|32|14.10.2013|20.10.2013|337|2013
+57|Swiss Indoors Basel|1|{'y': 2013, 'e': 328}|Hard|Switzerland|€1445835|32|21.10.2013|27.10.2013|328|2013
+58|Valencia Open 500|1|{'y': 2013, 'e': 573}|Hard|Spain|€1496095|32|21.10.2013|27.10.2013|573|2013
+59|BNP Paribas Masters|1|{'y': 2013, 'e': 352}|Hard|France|€2646495|64|28.10.2013|03.11.2013|352|2013
+60|Barclays ATP World Tour Finals|1|{'y': 2013, 'e': 605}|Hard|Great Britain|$6000000|4|04.11.2013|10.11.2013|605|2013
